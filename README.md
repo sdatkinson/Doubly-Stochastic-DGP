@@ -1,7 +1,7 @@
 # Doubly-Stochastic-DGP
 Deep Gaussian Processes with Doubly Stochastic Variational Inference 
 
-Requirements: gpflow1.1.1
+Requirements: [GPflow 1.2.0](https://github.com/GPflow/GPflow/releases/tag/v1.2.0)
 
 This code accompanies the paper
 
